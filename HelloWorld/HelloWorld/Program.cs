@@ -18,6 +18,15 @@ namespace HelloWorld
 
             Console.WriteLine( "\nDitt namn är: " + name);
             Console.WriteLine("Din older är: " + age);
+
+            int i = 20;
+
+            if (age < i){
+                Console.WriteLine("Du får inte köpa sprit än på systemet haha!");
+            }
+            else {
+                Console.WriteLine("Nu får du bli alkolist, grattis hehe!");
+            }
         }
     }
 }
