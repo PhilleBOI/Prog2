@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Prog2
+namespace Metoder
 {
     class Metoder
     {
@@ -15,7 +15,7 @@ namespace Prog2
 
             Console.WriteLine(Add(_tal));
             List(_name);
-            Sort(_tal);
+            Console.WriteLine(Sort(_tal));
         }
 
         static int Add(int[] tal)
@@ -41,7 +41,7 @@ namespace Prog2
 
         }
 
-        static void Sort(int[] tal)
+        static (int max, int min) Sort(int[] tal)
         {
             var max = 100;
             var min = 10;
@@ -58,8 +58,7 @@ namespace Prog2
                 }
             }
 
-            Console.WriteLine(max);
-            Console.WriteLine(min);
+            return (max, min);
         }
 
     }
