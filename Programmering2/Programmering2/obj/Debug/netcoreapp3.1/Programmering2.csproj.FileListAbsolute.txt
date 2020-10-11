@@ -1,0 +1,13 @@
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Programmering2\Programmering2\bin\Debug\netcoreapp3.1\Programmering2.exe
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Programmering2\Programmering2\bin\Debug\netcoreapp3.1\Programmering2.deps.json
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Programmering2\Programmering2\bin\Debug\netcoreapp3.1\Programmering2.runtimeconfig.json
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Programmering2\Programmering2\bin\Debug\netcoreapp3.1\Programmering2.runtimeconfig.dev.json
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Programmering2\Programmering2\bin\Debug\netcoreapp3.1\Programmering2.dll
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Programmering2\Programmering2\bin\Debug\netcoreapp3.1\Programmering2.pdb
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Programmering2\Programmering2\obj\Debug\netcoreapp3.1\Programmering2.csprojAssemblyReference.cache
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Programmering2\Programmering2\obj\Debug\netcoreapp3.1\Programmering2.AssemblyInfoInputs.cache
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Programmering2\Programmering2\obj\Debug\netcoreapp3.1\Programmering2.AssemblyInfo.cs
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Programmering2\Programmering2\obj\Debug\netcoreapp3.1\Programmering2.csproj.CoreCompileInputs.cache
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Programmering2\Programmering2\obj\Debug\netcoreapp3.1\Programmering2.dll
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Programmering2\Programmering2\obj\Debug\netcoreapp3.1\Programmering2.pdb
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Programmering2\Programmering2\obj\Debug\netcoreapp3.1\Programmering2.genruntimeconfig.cache

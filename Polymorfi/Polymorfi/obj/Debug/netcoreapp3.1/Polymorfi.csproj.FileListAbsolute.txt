@@ -1,0 +1,13 @@
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Polymorfi\Polymorfi\bin\Debug\netcoreapp3.1\Polymorfi.exe
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Polymorfi\Polymorfi\bin\Debug\netcoreapp3.1\Polymorfi.deps.json
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Polymorfi\Polymorfi\bin\Debug\netcoreapp3.1\Polymorfi.runtimeconfig.json
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Polymorfi\Polymorfi\bin\Debug\netcoreapp3.1\Polymorfi.runtimeconfig.dev.json
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Polymorfi\Polymorfi\bin\Debug\netcoreapp3.1\Polymorfi.dll
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Polymorfi\Polymorfi\bin\Debug\netcoreapp3.1\Polymorfi.pdb
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Polymorfi\Polymorfi\obj\Debug\netcoreapp3.1\Polymorfi.csprojAssemblyReference.cache
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Polymorfi\Polymorfi\obj\Debug\netcoreapp3.1\Polymorfi.AssemblyInfoInputs.cache
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Polymorfi\Polymorfi\obj\Debug\netcoreapp3.1\Polymorfi.AssemblyInfo.cs
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Polymorfi\Polymorfi\obj\Debug\netcoreapp3.1\Polymorfi.csproj.CoreCompileInputs.cache
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Polymorfi\Polymorfi\obj\Debug\netcoreapp3.1\Polymorfi.dll
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Polymorfi\Polymorfi\obj\Debug\netcoreapp3.1\Polymorfi.pdb
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Polymorfi\Polymorfi\obj\Debug\netcoreapp3.1\Polymorfi.genruntimeconfig.cache
