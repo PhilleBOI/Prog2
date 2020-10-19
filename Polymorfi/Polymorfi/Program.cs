@@ -14,14 +14,10 @@ namespace Polymorfi
             milk.ProductNumber = 123;
             milk.StockStatus = 10;
 
-            cart.Add(milk);
-
             Nocco nocco = new Nocco();
             nocco.Flavor = "Cola";
             nocco.ProductNumber = 234;
             nocco.StockStatus = 14;
-
-            cart.Add(nocco);
 
             Coffee coffee = new Coffee();
             coffee.Rostyness = "Dark AF";
@@ -29,22 +25,25 @@ namespace Polymorfi
             coffee.StockStatus = 0;
 
             cart.Add(coffee);
+            cart.Add(milk);
+            cart.Add(nocco);
 
             foreach (var product in cart)
             {
                 if (product.GetType() == typeof(Milk))
                 {
-                    Console.WriteLine(((Milk)product).FatContent); 
+                    Console.WriteLine(((Milk)product).GetType().Name); 
                 }
                 else if (product.GetType() == typeof(Coffee))
                 {
-                    Console.WriteLine(((Coffee)product).Rostyness);
+                    Console.WriteLine(((Coffee)product));
                 }
                 else if (product.GetType() == typeof(Nocco))
                 {
-                    Console.WriteLine(((Nocco)product).Flavor);
+                    Console.WriteLine(((Nocco)product));
                 }
             }
+           
         }
     }
 }
