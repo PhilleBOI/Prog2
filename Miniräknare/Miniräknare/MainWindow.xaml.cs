@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPFDemo
+namespace Miniräknare
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -23,16 +23,6 @@ namespace WPFDemo
         public MainWindow()
         {
             InitializeComponent();
-        }
-
-        private void MaybeButton_Click(object sender, RoutedEventArgs e)
-        {
-            MyTextBlock.Text += "Is for me??";
-
-            if(e.Source is Button button)
-            {
-                InOutField.Text += button.Content;
-            }
         }
     }
 }
