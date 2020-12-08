@@ -1,0 +1,13 @@
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Abstraktion\Abstraktion\bin\Debug\netcoreapp3.1\Abstraktion.exe
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Abstraktion\Abstraktion\bin\Debug\netcoreapp3.1\Abstraktion.deps.json
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Abstraktion\Abstraktion\bin\Debug\netcoreapp3.1\Abstraktion.runtimeconfig.json
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Abstraktion\Abstraktion\bin\Debug\netcoreapp3.1\Abstraktion.runtimeconfig.dev.json
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Abstraktion\Abstraktion\bin\Debug\netcoreapp3.1\Abstraktion.dll
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Abstraktion\Abstraktion\bin\Debug\netcoreapp3.1\Abstraktion.pdb
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Abstraktion\Abstraktion\obj\Debug\netcoreapp3.1\Abstraktion.csprojAssemblyReference.cache
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Abstraktion\Abstraktion\obj\Debug\netcoreapp3.1\Abstraktion.AssemblyInfoInputs.cache
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Abstraktion\Abstraktion\obj\Debug\netcoreapp3.1\Abstraktion.AssemblyInfo.cs
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Abstraktion\Abstraktion\obj\Debug\netcoreapp3.1\Abstraktion.csproj.CoreCompileInputs.cache
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Abstraktion\Abstraktion\obj\Debug\netcoreapp3.1\Abstraktion.dll
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Abstraktion\Abstraktion\obj\Debug\netcoreapp3.1\Abstraktion.pdb
+C:\Users\philip.thilen\Documents\GitHub\Prog2\Abstraktion\Abstraktion\obj\Debug\netcoreapp3.1\Abstraktion.genruntimeconfig.cache
