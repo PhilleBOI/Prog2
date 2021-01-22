@@ -30,7 +30,7 @@ namespace Abstraktion
         //Egen funktionalitet.
         public void Swim()
         {
-            Console.WriteLine("Shark is swiming!");
+            Console.WriteLine("Shark is swiming! \n");
         }
     }
 }

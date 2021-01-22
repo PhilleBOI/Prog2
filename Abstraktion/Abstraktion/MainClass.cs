@@ -15,11 +15,16 @@ namespace Abstraktion
             var shark = new Shark();
             shark.Color = "Grey";
 
+            var cat = new Cat();
+            cat.Color = "orange, white";
+
             animals.Add(dog);
             animals.Add(shark);
+            animals.Add(cat);
 
             foreach (var animal in animals)
             {
+                Console.WriteLine("The " + animals + " is " + animal.Color);
                 animal.Breathe();
                 animal.Eat();
                 animal.Rest();
@@ -27,6 +32,11 @@ namespace Abstraktion
                 if (animal is Shark tempShark)
                 {
                     tempShark.Swim();
+                }
+
+                if (animal is Cat tempCat)
+                {
+                    tempCat.comfy();
                 }
             }
         }

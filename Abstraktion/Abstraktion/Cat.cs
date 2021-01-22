@@ -4,27 +4,32 @@ using System.Text;
 
 namespace Abstraktion
 {
-    class Dog : Animal
+    class Cat : Animal
     {
 
-        public Dog()
+        public Cat()
         {
             NumberOfLimbs = 4;
         }
 
         public override void Breathe()
         {
-            Console.WriteLine("Dog takes a deep breath!");
+            Console.WriteLine("Cat is inhaling and exhaling through nose");
         }
 
         public override void Eat()
         {
-            Console.WriteLine("Dog is chowing! OMNOMNOM!");
+            Console.WriteLine("Cat is eating catfood");
         }
 
         public override void Rest()
         {
-            Console.WriteLine("Dog is snoring! ZzzZZZzzz \n");
+            Console.WriteLine("Cat is very sleapy");
+        }
+
+        public void comfy()
+        {
+            Console.WriteLine("Cat is spinning! \n");
         }
 
     }
