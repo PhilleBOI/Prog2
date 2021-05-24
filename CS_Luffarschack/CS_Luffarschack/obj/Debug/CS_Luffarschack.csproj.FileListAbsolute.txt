@@ -1,0 +1,10 @@
+C:\Users\philip.thilen\Documents\GitHub\Prog2\CS_Luffarschack\CS_Luffarschack\obj\Debug\CS_Luffarschack.csprojAssemblyReference.cache
+C:\Users\philip.thilen\Documents\GitHub\Prog2\CS_Luffarschack\CS_Luffarschack\obj\Debug\CS_Luffarschack.Form1.resources
+C:\Users\philip.thilen\Documents\GitHub\Prog2\CS_Luffarschack\CS_Luffarschack\obj\Debug\CS_Luffarschack.Properties.Resources.resources
+C:\Users\philip.thilen\Documents\GitHub\Prog2\CS_Luffarschack\CS_Luffarschack\obj\Debug\CS_Luffarschack.csproj.GenerateResource.cache
+C:\Users\philip.thilen\Documents\GitHub\Prog2\CS_Luffarschack\CS_Luffarschack\obj\Debug\CS_Luffarschack.csproj.CoreCompileInputs.cache
+C:\Users\philip.thilen\Documents\GitHub\Prog2\CS_Luffarschack\CS_Luffarschack\bin\Debug\CS_Luffarschack.exe.config
+C:\Users\philip.thilen\Documents\GitHub\Prog2\CS_Luffarschack\CS_Luffarschack\bin\Debug\CS_Luffarschack.exe
+C:\Users\philip.thilen\Documents\GitHub\Prog2\CS_Luffarschack\CS_Luffarschack\bin\Debug\CS_Luffarschack.pdb
+C:\Users\philip.thilen\Documents\GitHub\Prog2\CS_Luffarschack\CS_Luffarschack\obj\Debug\CS_Luffarschack.exe
+C:\Users\philip.thilen\Documents\GitHub\Prog2\CS_Luffarschack\CS_Luffarschack\obj\Debug\CS_Luffarschack.pdb
