@@ -15,7 +15,8 @@ namespace CS_Luffarschack
         Boolean checker;
         int plusone;
 
-        void Enable_False()
+        void Enable_False()     //Enable_False gör så att om jag kallar på den som jag gör i "void score()" så stängs alla knappar från 1 till 9 av så man inte kan 
+                                // fortsätta att plasera ut X och O.
         {
             btn_1.Enabled = false;
             btn_2.Enabled = false;
@@ -27,7 +28,9 @@ namespace CS_Luffarschack
             btn_8.Enabled = false;
             btn_9.Enabled = false;
         }
-        void score()
+        void score()        // Här skriver jag alla olika sätt man kan få tre i rad på, gör så att bakgrunden på knapparna som man fått tre i rad på får färg 
+                            // och så skriver jag ut en MessageBox som säger vilken spelare som vunnit om det är X eller O
+                            // samt plussar på med ett poäng till spekaren som van.
         {
             if (btn_1.Text == "X" && btn_2.Text == "X" && btn_3.Text == "X")
             {
@@ -127,6 +130,7 @@ namespace CS_Luffarschack
 
             //=================================================================================================================================
             //=================================================================================================================================
+            // Här är samma sak som jag kommenterade förut fast med O istället.
 
             if (btn_1.Text == "O" && btn_2.Text == "O" && btn_3.Text == "O")
             {
@@ -234,7 +238,10 @@ namespace CS_Luffarschack
 
         }
 
-        private void btn_1_Click(object sender, EventArgs e)
+        private void btn_1_Click(object sender, EventArgs e)        // Denna kod gör så att checker alltså där man plaserar ut X och O är falsk och om den är falsk 
+                                                                    // så kan man plasera ut X där och då blir checker true och efter det så kan du plasera O på nästa checker.
+                                                                    // Om det hade ståt true istället för false på O så om O hade plaserat ut på cheker så hade O kunnat plasera ut en till
+                                                                    // så denna kod gör så att programet byter tur efter att en spelar har plaserat ut ett O eller ett X.
         {
             if (checker == false)
             {
@@ -378,7 +385,7 @@ namespace CS_Luffarschack
             btn_9.Enabled = false;
         }
 
-        private void btn_NewGame_Click(object sender, EventArgs e)
+        private void btn_NewGame_Click(object sender, EventArgs e) // Denna kod gör så att om du tycker på "New Game"-knappen alla X och O och alla checkers blir blanka så man kan börja om igen på nytt.
         {
             try
             {
@@ -421,7 +428,7 @@ namespace CS_Luffarschack
             }
         }
 
-        private void btn_Reset_Click(object sender, EventArgs e)
+        private void btn_Reset_Click(object sender, EventArgs e)        // Denna kod gör så att du bara gör spelplanen blank, så om ingen fick tre i rad så kan du bara trycka på Reset knappen.
         {
             try
             {
@@ -463,7 +470,7 @@ namespace CS_Luffarschack
             }
         }
 
-        private void btn_Exit_Click(object sender, EventArgs e)
+        private void btn_Exit_Click(object sender, EventArgs e)         // Denna kod gör så att om du trycker på "Exit" knappen så kommer det upp en MessageBox som frågar dig om du är säker på att du vill avsluta spelet.
         {
             try
             {
